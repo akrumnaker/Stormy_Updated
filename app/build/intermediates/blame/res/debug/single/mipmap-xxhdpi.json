@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_dark_sky_logo.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_dark_sky_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

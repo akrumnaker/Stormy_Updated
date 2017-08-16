@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\rain.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_return_button.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\ic_return_button.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\clear_day.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\clear_day.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_dark_sky_api_logo.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\ic_dark_sky_api_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\partly_cloudy.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\partly_cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fog.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\fog.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\cloudy.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\refresh.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\snow.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\snow.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_dark_sky_logo.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\ic_dark_sky_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sleet.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\sleet.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\degree.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\degree.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\cloudy_night.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\cloudy_night.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dark_sky_api_logo.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\dark_sky_api_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\sunny.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\clear_night.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\clear_night.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_dark_sky.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\ic_dark_sky.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\wind.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bg_temperature.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-mdpi\\bg_temperature.png"
+    }
+]

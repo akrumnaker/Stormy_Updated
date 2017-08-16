@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\aaron\.android\build-cache\a07a68db9cafbf6107538383e1ad2063d127ff34\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e607ca6e04e85741fa979402b37eb552b811641">
+        <dex dex="C:\Users\aaron\Desktop\Android_Studio_Projects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_074beb77a05f99c79585462f8a9159eccb5446b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aaron\Desktop\Android_Studio_Projects\Stormy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f32c2757e75f041bfb8bf7577979380b5eaea0fd">
+        <dex dex="C:\Users\aaron\Desktop\Android_Studio_Projects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_343f86291cc2d7a7a070ed4760caa7b6a5bab5ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\aaron\Desktop\Android_Studio_Projects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_fc9d68e81452128b8ab9b1ad3c603becaae8f0ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aaron\.android\build-cache\4a22d1a1e62642454decf639519bb9e0657e7689\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\aaron\Desktop\Android_Studio_Projects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4a215f0fad931e3b213f9ab653e7d6534975ae2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aaron\.android\build-cache\7c5d975ea872d77e2625985f2da66968c6919e0d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="C:\Users\aaron\Desktop\Android_Studio_Projects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4498d4471cbe9e9f0c4d5f697063af3aadb2fd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aaron\.android\build-cache\d21310d1c1226a48db11d6c1133fb27c1a82f1c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="C:\Users\aaron\Desktop\Android_Studio_Projects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0af37cb6420c67bf49b48ce61a0c89bf350ff89a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aaron\Desktop\Android_Studio_Projects\Stormy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\aaron\Desktop\Android_Studio_Projects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fb107e804623782972567584cae35c8d0fc1711b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aaron\.android\build-cache\6d791a49640275b8a72054907c9eeb1deca54012\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="C:\Users\aaron\Desktop\Android_Studio_Projects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a275be84ac27ede2a1e15d3fd1321701899fcde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\aaron\.android\build-cache\1eb6b025e93b6e49a7af1a6ae79d6357734501bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\aaron\Desktop\Android_Studio_Projects\Stormy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e78b8fcd5a61688f8b35456f2b05c36c22d84f66\classes.dex" />
+    </item>
+
+</items>

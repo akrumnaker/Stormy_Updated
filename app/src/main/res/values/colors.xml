@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundWidget">#22000000</color>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#606060</color>
+    <color name="colorAccent">#ffffff</color>
+</resources>

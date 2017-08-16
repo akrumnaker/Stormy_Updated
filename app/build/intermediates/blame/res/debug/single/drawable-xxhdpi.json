@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_temperature.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\bg_temperature.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\sunny.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\fog.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\fog.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\clear_day.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\clear_day.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\cloudy.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_return_button.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\ic_return_button.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_dark_sky_logo.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\ic_dark_sky_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\degree.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\degree.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_dark_sky_api_logo.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\ic_dark_sky_api_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\wind.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\wind.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\snow.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\snow.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\partly_cloudy.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\partly_cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_dark_sky.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\ic_dark_sky.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\dark_sky_api_logo.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\dark_sky_api_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\cloudy_night.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\cloudy_night.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\sleet.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\sleet.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\rain.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\rain.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\clear_night.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\clear_night.png"
+    },
+    {
+        "merged": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\refresh.png",
+        "source": "C:\\Users\\aaron\\Desktop\\Android_Studio_Projects\\Stormy\\app\\src\\main\\res\\drawable-xxhdpi\\refresh.png"
+    }
+]

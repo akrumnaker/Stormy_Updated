@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backgrounds">
+        <item>bg_clear_day</item>  // light blue       (clear - day)
+        <item>bg_clear_night</item>  // purple gray      (clear - night)
+        <item>bg_rain</item>  // dark blue/gray   (rain)
+        <item>bg_snow</item>  // light gray       (snow)
+        <item>bg_sleet</item>  // light blue gray  (sleet)
+        <item>bg_wind</item>  // light blue       (wind)
+        <item>bg_fog</item>  // gray blue        (fog)
+        <item>bg_cloudy</item>  // gray             (cloudy)
+        <item>bg_partly_cloudy_day</item>  // light blue       (partly cloudy - day)
+        <item>bg_partly_cloudy_night</item>  // dark purple      (partly cloudy - night)
+    </string-array>
+</resources>
